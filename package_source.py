@@ -6,7 +6,7 @@ import zipfile
 def main():
     root = Path(__file__).resolve().parent
     fixed = ['games.py', 'LICENSE', '.gitignore', '.gitattributes', 'requirements-local.txt',
-             'README.md', 'UPSTREAM_README.md', 'RUN_PROJECT.md', 'Man_usuk.md', 'package_source.py',
+             'README.md', 'UPSTREAM_README.md', 'RUN_PROJECT.md', 'Man_usuk.md', 'Man_usuk.pdf', 'package_source.py',
              'docs/technical-v1.md', '.github/workflows/tests.yml',
              'CHALLENGE.md', 'DATA.md', 'EVALUATION.md', 'RULES.md', 'SUBMISSION.md',
              'starter/baseline.py', 'starter/load_smart_tagging.py',

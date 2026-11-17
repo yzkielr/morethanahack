@@ -67,3 +67,6 @@ env/
 local-logs/
 submission/
 release/
+
+# Public technical submission document.
+!/Man_usuk.pdf

@@ -1,4 +1,4 @@
-﻿# Man usuk — More Than a Hack 2027
+# Man usuk — More Than a Hack 2027
 
 A reproducible Phase 1 possession-estimation project using the official tactical
 tracking and automatic Smart Tagging. Team: **Man usuk**.
@@ -65,7 +65,7 @@ selection against that answer window was performed. Full-match performance remai
 
 Current limitations include one-touch football, whistle-driven stoppages, long
 occlusions, automatic tag errors and ambiguous restart boundaries. Details and all
-parameter values are in [the technical document](Man_usuk.md).
+parameter values are in [the technical document](Man_usuk.pdf).
 
 ## Submission
 
@@ -73,7 +73,7 @@ Provide the organisers with:
 
 1. `submission/Man_usuk.csv`
 2. This public repository URL
-3. `Man_usuk.md`
+3. `Man_usuk.pdf` (the required short technical document; Markdown is the editable source)
 
 The raw dataset, videos, local manifests, logs and generated predictions are excluded
 from this repository. Download match assets only through the organisers' authorised
